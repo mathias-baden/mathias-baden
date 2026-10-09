@@ -3,7 +3,7 @@
 Lead Architect working with the **Microsoft security and compliance stack** — Microsoft Purview, Defender, and Information Protection. I implement this in the real world and write up the parts the docs leave out.
 
 🌐 **Blog:** [mathiasbaden.com](https://mathiasbaden.com) — deep-dive field guides on Purview, DLP, Insider Risk and Information Protection
-💼 **LinkedIn:** <!-- [paste your LinkedIn profile URL here](https://www.linkedin.com/in/mathias-baden-frederiksen/) -->
+💼 **LinkedIn:** https://www.linkedin.com/in/mathias-baden-frederiksen/
 
 ## 🔧 What I'm building
 
