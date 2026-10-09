@@ -2,8 +2,8 @@
 
 Lead Architect working with the **Microsoft security and compliance stack** — Microsoft Purview and Microsoft Defender. I implement this in the real world and write up the parts the docs leave out.
 
-🌐 **Blog:** [mathiasbaden.com](https://mathiasbaden.com) — deep-dive field guides on Microsoft Purview
-💼 **LinkedIn:** (https://www.linkedin.com/in/mathias-baden-frederiksen/)
+🌐 **Blog:** [mathiasbaden.com](https://mathiasbaden.com) — deep-dive field guides on Microsoft Purview<br>
+💼 **LinkedIn:** [mathias-baden-frederiksen](https://www.linkedin.com/in/mathias-baden-frederiksen/)
 
 ## 🔧 What I'm building
 
