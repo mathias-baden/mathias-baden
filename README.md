@@ -7,7 +7,7 @@ Lead Architect working with the **Microsoft security and compliance stack** — 
 
 ## 🔧 What I'm building
 
-**[Purview](https://github.com/mathias-baden/Purview)** — scripts, KQL and tools for Microsoft Purview, built from real deployments. The highlight is a tool that turns the Information Protection Scanner's raw CSV into a readable, per-user HTML report.
+**[Purview](https://github.com/mathias-baden/Microsoft-Purview)** — scripts, KQL and tools for Microsoft Purview, built from real deployments. The highlight is a tool that turns the Information Protection Scanner's raw CSV into a readable, per-user HTML report.
 
 ## 📝 Focus areas
 
