@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mathias 👋
 
-<!--
-**mathias-baden/mathias-baden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Architect working with the **Microsoft security and compliance stack** — Microsoft Purview, Defender, and Information Protection. I implement this in the real world and write up the parts the docs leave out.
 
-Here are some ideas to get you started:
+🌐 **Blog:** [mathiasbaden.com](https://mathiasbaden.com) — deep-dive field guides on Purview, DLP, Insider Risk and Information Protection
+💼 **LinkedIn:** <!-- paste your LinkedIn profile URL here -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm building
+
+**[Purview](https://github.com/mathias-baden/Purview)** — scripts, KQL and tools for Microsoft Purview, built from real deployments. The highlight is a tool that turns the Information Protection Scanner's raw CSV into a readable, per-user HTML report.
+
+## 📝 Focus areas
+
+Microsoft Purview · Information Protection · Data Loss Prevention · Insider Risk Management · Sensitivity Labels · KQL / Advanced Hunting
+
+![Mathias's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathias-baden&show_icons=true&hide_border=true&card_width=450)
+
+---
+
+⭐ If something here helps, a star helps others find it too.
